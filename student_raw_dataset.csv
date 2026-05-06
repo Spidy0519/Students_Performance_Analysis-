@@ -1,0 +1,12 @@
+Student_ID,Name,Gender,Maths,Science,English,Attendance(%)
+101,Rahul,Male,78,85,90,92
+102,Anjali,Female,88,,76,85
+103,Karthik,Male,45,55,60,70
+104,Priya,Female,92,89,95,96
+105,Arun,Male,110,78,85,88
+106,Divya,Female,67,72,,80
+107,Surya,Male,30,40,35,60
+108,Meena,Female,85,90,88,95
+108,Meena,Female,85,90,88,95
+109,Vikram,Male,-5,65,70,75
+110,Latha,Female,75,80,82,

@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Maths,Science,English,Attendance(%),Average,Grade
+101,Rahul,Male,78.0,85.0,90.0,92.0,84.0,B
+102,Anjali,Female,88.0,73.0,76.0,85.0,79.0,B
+103,Karthik,Male,45.0,55.0,60.0,70.0,53.0,C
+104,Priya,Female,92.0,89.0,95.0,96.0,92.0,A
+105,Arun,Male,70.0,78.0,85.0,88.0,78.0,B
+106,Divya,Female,67.0,72.0,76.0,80.0,72.0,C
+107,Surya,Male,30.0,40.0,35.0,60.0,35.0,F
+108,Meena,Female,85.0,90.0,88.0,95.0,88.0,B
+109,Vikram,Male,70.0,65.0,70.0,75.0,68.0,C
+110,Latha,Female,75.0,80.0,82.0,82.0,79.0,B
